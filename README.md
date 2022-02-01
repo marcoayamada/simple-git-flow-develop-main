@@ -1,3 +1,3 @@
-# simple-git-flow
+# simple-git-flow-develop-main
 
-With just `main` protected. All another branches are `'dev'`.
+Branches `main` and `develop` protected and separated.
